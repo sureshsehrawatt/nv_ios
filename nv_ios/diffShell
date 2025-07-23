@@ -1,0 +1,13 @@
+#!/bin/bash
+
+files=(*)
+
+for item in ${files[*]}
+do
+    echo ${item}
+    diff -w ${item} ../DiffFiles/${item} > x
+    if [$(stat -c%s ${item})>0]
+    then
+        ${item} >> diffFiles
+    fi
+done
