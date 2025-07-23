@@ -7,7 +7,7 @@
 //
 
 #import "NvHttpRequestWatcher.h"
-#import "NV_F4/NV_F4-Swift.h"
+#import "nv_ios/nv_ios-Swift.h"
 
 
 @class NvRequest;

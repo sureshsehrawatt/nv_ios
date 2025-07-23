@@ -6,7 +6,7 @@
 //  Copyright © 2016 compass-362. All rights reserved.
 //
 
-#import "NV_F4/NV_F4-swift.h"
+#import "nv_ios/nv_ios-swift.h"
 #import <UIKit/UIKit.h>
 
 @class NvActivityLifeCycleMonitor;

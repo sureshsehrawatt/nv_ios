@@ -7,7 +7,7 @@
 //
 //#import <Hack_Cancer-Swift.h>
 
-#import "NV_F4/NV_F4-swift.h"
+#import "nv_ios/nv_ios-swift.h"
 #import <UIKit/UIKit.h>
 
 @class NvActivityLifeCycleMonitor;

@@ -7,7 +7,7 @@
 //
 
 #import "NvUISplitViewController.h"
-#import "NV_F4/NV_F4-swift.h"
+#import "nv_ios/nv_ios-swift.h"
 @class NvActivityLifeCycleMonitor;
 @class NvPageDump;
 @class NvUtils;
